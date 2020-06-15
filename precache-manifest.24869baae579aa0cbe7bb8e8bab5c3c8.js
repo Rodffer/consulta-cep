@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eeebb52f10cfd9af0a98b158de11dcc3",
+    "revision": "c823eae762787db0e3cd4691846b23f2",
     "url": "/consulta-cep/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/consulta-cep/static/js/2.abe4bcc3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3fa6fd880ba348e7a844",
-    "url": "/consulta-cep/static/js/main.6328d0e3.chunk.js"
+    "revision": "f758a3207f5dd74adef9",
+    "url": "/consulta-cep/static/js/main.87d1583d.chunk.js"
   },
   {
     "revision": "2a4c0244227869c19fe1",
