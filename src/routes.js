@@ -5,7 +5,7 @@ import Main from './pages/Main';
 
 export default function Routes() {
   return (
-    <BrowserRouter basename='consulta-cep'>
+    <BrowserRouter basename="consulta-cep">
       <Switch>
         <Route path="/" exact component={Main}/>
         <Route path="/city" component={City}/>
