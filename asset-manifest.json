@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/consulta-cep/static/js/main.a20cbf9d.chunk.js",
+    "main.js.map": "/consulta-cep/static/js/main.a20cbf9d.chunk.js.map",
+    "runtime-main.js": "/consulta-cep/static/js/runtime-main.f1afc6c0.js",
+    "runtime-main.js.map": "/consulta-cep/static/js/runtime-main.f1afc6c0.js.map",
+    "static/js/2.abe4bcc3.chunk.js": "/consulta-cep/static/js/2.abe4bcc3.chunk.js",
+    "static/js/2.abe4bcc3.chunk.js.map": "/consulta-cep/static/js/2.abe4bcc3.chunk.js.map",
+    "index.html": "/consulta-cep/index.html",
+    "precache-manifest.9919c866ed22e5549f49a4c3f2c99ed7.js": "/consulta-cep/precache-manifest.9919c866ed22e5549f49a4c3f2c99ed7.js",
+    "service-worker.js": "/consulta-cep/service-worker.js",
+    "static/js/2.abe4bcc3.chunk.js.LICENSE.txt": "/consulta-cep/static/js/2.abe4bcc3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1afc6c0.js",
+    "static/js/2.abe4bcc3.chunk.js",
+    "static/js/main.a20cbf9d.chunk.js"
+  ]
+}
