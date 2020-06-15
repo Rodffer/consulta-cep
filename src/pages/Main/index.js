@@ -6,7 +6,6 @@ import { Container }from '../../components/Container';
 const Main = ({ history }) => {
   const [consult, setConsult] = useState('');
   function handleInputChange(event) {
-    console.log(event.target.value);
     setConsult(event.target.value)
   }
   async function handleSubmit(event) {
