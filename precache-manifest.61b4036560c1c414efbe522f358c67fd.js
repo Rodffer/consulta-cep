@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c823eae762787db0e3cd4691846b23f2",
+    "revision": "5501280442199b790b0407a01320778d",
     "url": "/consulta-cep/index.html"
   },
   {
